@@ -90,7 +90,6 @@ AttributeError: 'list' object has no attribute 'print_sorted'
 
 -------------------------------------------
 
-
 case 8: negative numbers
 
 >>> MyList = __import__('1-my_list').MyList
