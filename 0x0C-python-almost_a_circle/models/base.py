@@ -1,8 +1,10 @@
 #!/usr/bin/python3
+
 """Defines a base model class."""
 import json
 import csv
 import turtle
+
 
 class Base:
     """Base model.
@@ -12,6 +14,7 @@ class Base:
     """
 
     __nb_objects = 0
+
 
     def __init__(self, id=None):
         """Initialize a new Base.
